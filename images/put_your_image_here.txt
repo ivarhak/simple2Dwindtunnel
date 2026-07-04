@@ -1,0 +1,3 @@
+Drop a PNG or JPG in this folder and run `python main.py` - it will be
+auto-detected and used as the wind tunnel obstacle. See README.md for
+details on which image format works best.

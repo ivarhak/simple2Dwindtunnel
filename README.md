@@ -149,5 +149,5 @@ saturating to one color on shapes the original fixed range didn't suit.
 
 Credits:
 Vibe coded with the help of Claude by Antropic
-Feel free to use and customize however you want
-Ivar Haakansson 2026
+ Feel free to use and customize however you want
+ Ivar Haakansson 2026

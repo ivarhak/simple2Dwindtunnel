@@ -1,3 +1,5 @@
+<img width="1440" height="518" alt="Screenshot 2026-07-04 at 5 33 52 PM" src="https://github.com/user-attachments/assets/0c774038-db1b-413d-af1b-b07a03f3a5eb" />
+
 # 2D Wind Tunnel
 
 Drop an image in, drag to pitch it, and watch a real-time fluid simulation
@@ -130,7 +132,7 @@ smoothed 99th-percentile of the current field), so the color range adapts
 to whatever object/angle/speed you're looking at instead of washing out or
 saturating to one color on shapes the original fixed range didn't suit.
 
-## Honest limitations
+## limitations
 
 - This is a qualitative/educational simulator, not a validated CFD tool -
   fine for seeing stagnation points, flow separation, and vortex shedding
